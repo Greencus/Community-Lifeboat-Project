@@ -2,6 +2,7 @@ This is a fork of the seemingly unmaintained community lifeboat modpack for kerb
 My goal is to make starting a new file of modded ksp very easy from start to finish for people who like to install as many mods as possible like me lol :p 
 
 # STILL FIXING ISSUES RN
+Right now, textures fail to load for MinmusBoulder and MinmusSnowBoulder on a few planets for some reason. I am trying to resolve it.
 
 # Civ Pop
 There is a modpack file with, and one without, the civilian population mod. Since its complicated and a bit confusing, and I know lots of people don't use it. But if managing civilian infrastructure sounds interesting to you then you should consider that pack instead.
