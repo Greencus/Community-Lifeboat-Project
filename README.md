@@ -1,8 +1,12 @@
 This is a fork of the seemingly unmaintained community lifeboat modpack for kerbal space program. It will focus on adding a few mods and changing some mods for more modern replacements.
 My goal is to make starting a new file of modded ksp very easy from start to finish for people who like to install as many mods as possible like me lol :p 
 
+# STILL FIXING ISSUES RN
 
 # INSTALLATION INSTRUCTIONS
-- A folder with config files is provided, you can click code and download as zip; you can import the modlist via ckan Post-install, you must copy the config files into their folders and overwrite. This is to fix a configuration issue.
+- You can click code and download as zip; you can import the modlist via ckan Post-install. There are also config files included, you must copy the config files into their folders and overwrite. This is to fix a configuration issue.(Still not fixed yet)
 - Please also download [Volumetric Clouds V3](https://www.patreon.com/blackrack/posts/true-volumetric-87982960) and manually install it to your GameData folder, as its not on ckan. You can also use a newer version of the mod if you [pay for it,](https://www.patreon.com/blackrack/posts/release-5-139881534) and you can also add any other paid mods you have as well, like the ones from [Fossilized.](https://www.patreon.com/cw/FossilizedKSP)
 - On first launch, change the terrain detail in the settings to high.
+
+# Want VR?
+[This repo](https://github.com/FirstPersonKSP/Kerbal-VR) is the most up to date. It must be installed separately, please follow their instructions
