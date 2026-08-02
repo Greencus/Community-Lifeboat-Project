@@ -458,6 +458,10 @@
             "suppress_recommendations": true
         },
         {
+            "name": "KerbalChangelog",
+            "suppress_recommendations": true
+        },
+        {
             "name": "KerbalInventoryForAll",
             "suppress_recommendations": true
         },
@@ -619,6 +623,10 @@
         },
         {
             "name": "Trajectories",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "TUFX",
             "suppress_recommendations": true
         },
         {
