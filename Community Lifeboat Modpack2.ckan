@@ -118,6 +118,9 @@
             "name": "DeepFreeze"
         },
         {
+            "name": "Deferred"
+        },
+        {
             "name": "DeployableEngines"
         },
         {
@@ -283,16 +286,22 @@
             "name": "OuterPlanetsMod"
         },
         {
-            "name": "Parallax"
+            "name": "ParallaxContinued"
         },
         {
-            "name": "Parallax-OuterPlanetsMod"
+            "name": "OuterParallax-MPE"
         },
         {
-            "name": "Parallax-StockScatterTextures"
+            "name": "OuterParallax-OPM"
         },
         {
-            "name": "Parallax-StockTextures"
+            "name": "ParallaxContinued-Planet-Textures"
+        },
+        {
+            "name": "ParallaxContinued-Scatter-Textures"
+        },
+        {
+            "name": "ParallaxContinued-Terrain-Textures"
         },
         {
             "name": "PlanetShine"
