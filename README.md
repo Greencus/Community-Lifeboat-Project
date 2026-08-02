@@ -1,3 +1,5 @@
+# Community Lifeboat (Cus' version)
+
 This is a fork of the seemingly unmaintained community lifeboat modpack for kerbal space program. It will focus on adding a few mods and changing some mods for more modern replacements.
 My goal is to make starting a new file of modded ksp very easy from start to finish for people who like to install as many mods as possible like me lol :p 
 
