@@ -10,8 +10,8 @@ There is a modpack file with, and one without, the civilian population mod. Sinc
 
 # INSTALLATION INSTRUCTIONS
 - You can click code and download as zip; you can import the modlist via ckan Post-install. There are also config files included, you must copy the config files into their folders and overwrite. This is to fix a configuration issue that stops a couple textures from loading
-- Please also download [Volumetric Clouds V3](https://www.patreon.com/blackrack/posts/true-volumetric-87982960) if you would like better visuals, and manually install it to your GameData folder, as its not on ckan. You can also use a newer version of the mod if you [pay for it,](https://www.patreon.com/blackrack/posts/release-5-139881534).
-- you can also add any other paid mods you have as well, like the ones from [Fossilized.](https://www.patreon.com/cw/FossilizedKSP). I am having issues with Environmental Visual Enhancements redux causing crashing for some reason, but you may also try it if you would like a visual boost thats more performance friendly, it is available on ckan but not included in this pack.
+- Please also download Blackrack's [Volumetric Clouds V3](https://www.patreon.com/blackrack/posts/true-volumetric-87982960) if you would like better visuals, and manually install it to your GameData folder, as its not on ckan. You can also use a newer version of the mod if you [pay for it,](https://www.patreon.com/blackrack/posts/release-5-139881534). These mods impact performance heavily.
+- you can also add any other paid mods you have as well, like the ones from [Fossilized.](https://www.patreon.com/cw/FossilizedKSP). I am having issues with Environmental Visual Enhancements redux causing crashing for some reason, but you may also try it if you would like a visual boost thats more performance friendly, it is available on ckan but not included in this pack. If it crashes, remove it.
 - On first launch, change the terrain detail in the settings to high.
 
 # Want VR?
