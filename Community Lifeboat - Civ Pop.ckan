@@ -418,10 +418,6 @@
             "suppress_recommendations": true
         },
         {
-            "name": "EnvironmentalVisualEnhancements",
-            "suppress_recommendations": true
-        },
-        {
             "name": "ExtraPlanetaryLaunchpads",
             "suppress_recommendations": true
         },
