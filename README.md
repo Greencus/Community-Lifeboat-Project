@@ -7,6 +7,8 @@ It is now in good shape and can be shared and use, it should be relatively strai
 
 # Civ Pop
 There is a modpack file with, and one without, the civilian population mod. Since its complicated and a bit confusing, and I know lots of people don't use it. But if managing civilian infrastructure sounds interesting to you then you should consider that pack instead.
+# BYOLS
+Theres a modpack without usi life support, and its accompanying mod, if youd like to bring your own life support mod. Or maybe you don't want life support at all idk. This pack also doesn't have Civ Pop.
 
 # INSTALLATION INSTRUCTIONS
 - You can click code and download as zip; you can import the modlist via ckan Post-install. There are also config files included as Patch.zip, install them as a manual ckan mod after the modpack installs fully. This is to fix a configuration issue that stops a couple textures from loading
