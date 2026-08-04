@@ -9,7 +9,7 @@ It is now in good shape and can be shared and use, it should be relatively strai
 There is a modpack file with, and one without, the civilian population mod. Since its complicated and a bit confusing, and I know lots of people don't use it. But if managing civilian infrastructure sounds interesting to you then you should consider that pack instead.
 
 # INSTALLATION INSTRUCTIONS
-- You can click code and download as zip; you can import the modlist via ckan Post-install. There are also config files included as a zip, install them as a manual ckan mod after the modpack installs fully. This is to fix a configuration issue that stops a couple textures from loading
+- You can click code and download as zip; you can import the modlist via ckan Post-install. There are also config files included as Patch.zip, install them as a manual ckan mod after the modpack installs fully. This is to fix a configuration issue that stops a couple textures from loading
   
 - Please also download Blackrack's [Volumetric Clouds V3](https://www.patreon.com/blackrack/posts/true-volumetric-87982960) if you would like better visuals, and manually install it to your GameData folder, as its not on ckan. You can also use a newer version of the mod if you [pay for it,](https://www.patreon.com/blackrack/posts/release-5-139881534)(V5). V5 works best for me. These mods are more GPU-dependent and visual-focused.
 - I am having issues with Environmental Visual Enhancements Redux causing crashing for some reason, but you may also try it if you would like a visual boost, it is more performance friendly. It is available on ckan, but not included in this pack. If it crashes, remove it.
