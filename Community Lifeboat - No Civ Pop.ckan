@@ -18,11 +18,11 @@
             "suppress_recommendations": true
         },
         {
-            "name": "B9PartSwitch",
+            "name": "CommunityResourcePack",
             "suppress_recommendations": true
         },
         {
-            "name": "CommunityResourcePack",
+            "name": "B9PartSwitch",
             "suppress_recommendations": true
         },
         {
@@ -34,7 +34,11 @@
             "suppress_recommendations": true
         },
         {
-            "name": "CommunityTerrainTexturePack",
+            "name": "ClickThroughBlocker",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "ToolbarController",
             "suppress_recommendations": true
         },
         {
@@ -50,10 +54,6 @@
             "suppress_recommendations": true
         },
         {
-            "name": "OuterPlanetsMod",
-            "suppress_recommendations": true
-        },
-        {
             "name": "SystemHeat",
             "suppress_recommendations": true
         },
@@ -62,11 +62,7 @@
             "suppress_recommendations": true
         },
         {
-            "name": "ClickThroughBlocker",
-            "suppress_recommendations": true
-        },
-        {
-            "name": "ToolbarController",
+            "name": "CommunityTerrainTexturePack",
             "suppress_recommendations": true
         },
         {
@@ -86,11 +82,15 @@
             "suppress_recommendations": true
         },
         {
+            "name": "OuterPlanetsMod",
+            "suppress_recommendations": true
+        },
+        {
             "name": "CustomAsteroids",
             "suppress_recommendations": true
         },
         {
-            "name": "CustomAsteroids-Pops-OPM-Outer",
+            "name": "CustomAsteroids-Pops-Stock-Stockalike",
             "suppress_recommendations": true
         },
         {
@@ -151,6 +151,10 @@
         },
         {
             "name": "RasterPropMonitor-Core",
+            "suppress_recommendations": true
+        },
+        {
+            "name": "Shabby",
             "suppress_recommendations": true
         },
         {
@@ -266,10 +270,6 @@
             "suppress_recommendations": true
         },
         {
-            "name": "Shabby",
-            "suppress_recommendations": true
-        },
-        {
             "name": "SimpleAdjustableFairings",
             "suppress_recommendations": true
         },
@@ -378,7 +378,7 @@
             "suppress_recommendations": true
         },
         {
-            "name": "CustomAsteroids-Pops-Stock-Stockalike",
+            "name": "CustomAsteroids-Pops-OPM-Outer",
             "suppress_recommendations": true
         },
         {
@@ -650,6 +650,6 @@
             "suppress_recommendations": true
         }
     ],
-    "release_date": "2026-08-02T10:06:25.827881Z",
+"release_date": "2026-08-02T10:06:25.827881Z",
     "kind": "metapackage"
 }
